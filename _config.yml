@@ -1,1 +1,8 @@
+# General Jekyll Config
+hilighter: rougue
+name: Lynpos github staff
+description: Lynpo's github repositories intro.
+url: "https://lynpo.github.io/"
+lsi: false
+
 theme: jekyll-theme-leap-day
